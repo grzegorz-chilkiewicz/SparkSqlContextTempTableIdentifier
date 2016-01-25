@@ -1,1 +1,3 @@
 # SparkSqlContextTempTableIdentifier
+
+ > sbt run
